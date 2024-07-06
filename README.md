@@ -7,6 +7,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-# Deployed using Netlify
+# Deployed using Vercel
 
-https://reunion-assignment-divyanshch.netlify.app/
+[https://reunion-assignment-divyanshch.netlify.app/](https://hellofullstackreunion-mohits-projects-8aebe22b.vercel.app/)
