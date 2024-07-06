@@ -1,3 +1,8 @@
+#Onces click on deploy link and click on any tab (ID,Name,Category,SubCategory) then table will shown the the functionality will work
+
+#Multiple Page pagination is there (like 10,15,20 etc)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
