@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 # Deployed using Vercel
 
-[https://hellofullstackreunion-mohits-projects-8aebe22b.vercel.app/]
+https://hellofullstackreunion-mohits-projects-8aebe22b.vercel.app/
